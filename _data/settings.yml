@@ -1,18 +1,17 @@
 #-------------------------------
 # General Site Settings
-title: Zolan
+title: EP1000 BLog
 logo: logo.svg # You can add own logo.
-description: Zolan is modern minimal theme for Jekyll
+description: This is my blog that I am using to share my journey through EP1000 with the use of Zolan, modern minimal theme for Jekyll
 
 
 #-------------------------------
 # Author Settings
 author:
-  name: Alex Rodriguez
+  name: Danial Isyraf
   image: 01.jpg
-  say-hello: Hello, I’m <strong>Alex Rodriguez</strong>
-  bio: Designs, talks, and writes about <strong>web</strong>, <strong>ethics</strong>, <strong>privacy</strong>, and dev. I share design tutorials, free resources and inspiration. Loves <a href="#">music</a> & riding his bicycle.
-
+  say-hello: Hello, I’m <strong>Danial Isyraf</strong>
+  bio: Welcome to my <strong>EP1000 Blog<strong>! This is where I will be sharing my journey thorugh EP1000 <strong>Digital Fabrication Prototyping Fundamental.<strong> Feel free to scroll down below to view my posts on the assignments and projects I have done!  
 
 #-------------------------------
 # Contact links
@@ -30,8 +29,8 @@ disqus-identifier: mr-brown # add your shortname for Disqus Comment. For example
 
 #-------------------------------
 # Instagram Feed
-instafeed: # To enable the instafeed, use the value true. To turn off use the value false.
-instagram-profile: artemsheludko_ # Add instagram username
+instafeed: false # To enable the instafeed, use the value true. To turn off use the value false.
+instagram-profile: # Add instagram username
 
 
 #-------------------------------
